@@ -1,3 +1,9 @@
+---
+title: Summer School in Computational Sensory-Motor Neuroscience (CoSMo)
+description: all links to CoSMo summer school in computational neuroscience materials
+categories: scientists
+---
+
 # Array
 
 Next, we have a _very_ important class: `Array`. Most of what we do as
